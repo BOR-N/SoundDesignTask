@@ -84,7 +84,6 @@ public class Footsteps : MonoBehaviour
         _playerMoveSpeedVector = playerMotor.Velocity;
         _playerMoveSpeedVector.x *= 0;
         _playerMoveSpeedVector.z *= 0;
-        if (_playerMoveSpeedVector.y < -4) Debug.Log(_playerMoveSpeedVector.magnitude);
         return _playerMoveSpeedVector.y < -4 ? _playerMoveSpeedVector.magnitude: 0;
     }
 
