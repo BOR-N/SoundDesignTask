@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0fcb88a9-47be-4c86-b1e4-ad67a65009b7}">
+		<property name="assetPath">
+			<value>Ambience/TV/490749__jordishaw__broken-tv-in-the-background_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>121</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe1ba507-b2e1-4f8f-90ef-f32fc80225de}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{0a0e92d9-9bf8-4bf4-b0aa-1f7d1c7d9c4a}">
+		<property name="name">
+			<value>LandingSpeed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{74dac506-048a-4652-a2fe-4900d229e637}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{57b10e90-f892-4286-b196-d9d89a9d008a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{57b10e90-f892-4286-b196-d9d89a9d008a}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

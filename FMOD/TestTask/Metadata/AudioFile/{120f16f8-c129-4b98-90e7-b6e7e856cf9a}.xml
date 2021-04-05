@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{120f16f8-c129-4b98-90e7-b6e7e856cf9a}">
+		<property name="assetPath">
+			<value>Walking/Samples/running_og-nr - Marker #86.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.34249433106575966</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe1ba507-b2e1-4f8f-90ef-f32fc80225de}</destination>
+		</relationship>
+	</object>
+</objects>

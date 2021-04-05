@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{656907a0-f5fc-4620-8aa4-752e71726bed}">
+		<property name="assetPath">
+			<value>Ambience/Apartment Dog/415022__roman-cgr__barking-dog - Marker #9.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.3643124999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{fe1ba507-b2e1-4f8f-90ef-f32fc80225de}</destination>
+		</relationship>
+	</object>
+</objects>

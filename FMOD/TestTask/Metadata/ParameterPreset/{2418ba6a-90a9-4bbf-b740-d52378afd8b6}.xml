@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{2418ba6a-90a9-4bbf-b740-d52378afd8b6}">
+		<property name="name">
+			<value>Annoyance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{74dac506-048a-4652-a2fe-4900d229e637}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4f873811-46f7-41bf-9f16-dce44eba3682}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4f873811-46f7-41bf-9f16-dce44eba3682}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
